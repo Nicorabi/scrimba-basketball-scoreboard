@@ -82,15 +82,18 @@ button:active {
 
 @font-face {
     font-family: 'Digital-7';
-    src: url('/fonts/digital-7.ttf');
+    src: url('fonts/digital-7.ttf');
 }
 
 #reset-home {
     margin-top: 10px;
     margin-left: 35px;
 }
+<<<<<<< HEAD
 
 #reset-guest {
     margin-top: 10px;
     margin-left: 35px;
 }
+=======
+>>>>>>> fbcfce92ea53f46646cfaccc8088895908a72a8e
